@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-class test{
+class numberguessing{
     public static void main(String[] args) {
     System.out.println("Welcome to the Number guessing game");
     System.out.println("Rules: 1. Enter a number from 1 to 20");
