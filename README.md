@@ -24,4 +24,4 @@ This is a simple **Number Guessing Game** built using **Java**. The computer ran
 2. Open terminal or command prompt in the project folder.
 3. Compile the code:
    ```bash
-   javac GuessingGame.java
+   javac numberguessing.java
